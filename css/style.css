@@ -3,7 +3,7 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-
+ 
 body {
 	background: #F3EBE9;
 	font-size: 100%;
@@ -18,3 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header img {
+  border: 5px rgb(152,173,166) solid;
+}
