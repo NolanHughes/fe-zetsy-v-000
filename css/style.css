@@ -46,7 +46,7 @@ h2 {
   font-size: 2em;
 }
 
-about a {
+#about a {
   color: #1783bb;
   text-decoration: none;
 }
