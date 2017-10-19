@@ -48,9 +48,13 @@ h2 {
 
 #press img {
   border: 5px solid #ccc;
-  padding: 1px; 
+  padding: 1px;
 }
 
 #press a {
   text-decoration: none;
+}
+
+footer {
+  align-items: right;
 }
