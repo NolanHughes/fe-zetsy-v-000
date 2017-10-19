@@ -45,3 +45,7 @@ h2 {
 #press {
   margin-bottom: 20px;
 }
+
+#press img {
+  border: 5px solid #ccc; 
+}
